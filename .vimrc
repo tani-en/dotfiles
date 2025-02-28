@@ -52,14 +52,13 @@ set colorcolumn=80
 
 " Aesthetics
 
-colorscheme solarized
 set background=light
 
 " Mappings and shortcuts
 
 " Basics
 
-inoremap jk <ESC>
+inoremap jj <ESC>
 let mapleader = ","
 
 " Arrows are unvimlike 
